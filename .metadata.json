@@ -1,0 +1,14 @@
+[
+  {
+    "package": "envirem",
+    "oncran": true
+  },
+  {
+    "package": "epm",
+    "oncran": true
+  },
+  {
+    "package": "rangeBuilder",
+    "oncran": true
+  }
+]

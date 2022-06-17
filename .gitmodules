@@ -3,3 +3,20 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "envirem"]
+	path = envirem
+	url = https://github.com/ptitle/envirem
+	shallow = true
+	subdir = envirem
+	registered = true
+[submodule "epm"]
+	path = epm
+	url = https://github.com/ptitle/epm
+	shallow = true
+	registered = true
+[submodule "rangeBuilder"]
+	path = rangeBuilder
+	url = https://github.com/ptitle/rangebuilder
+	shallow = true
+	subdir = rangeBuilder
+	registered = true
