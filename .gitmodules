@@ -18,5 +18,4 @@
 	path = rangeBuilder
 	url = https://github.com/ptitle/rangebuilder
 	shallow = true
-	subdir = rangeBuilder
 	registered = true
