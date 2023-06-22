@@ -7,7 +7,6 @@
 	path = envirem
 	url = https://github.com/ptitle/envirem
 	shallow = true
-	subdir = envirem
 	registered = true
 [submodule "epm"]
 	path = epm
